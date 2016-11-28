@@ -98,9 +98,6 @@ public class DisconfMgr {
 
             LOGGER.info("******************************* DISCONF END FIRST SCAN *******************************");
 
-//            JedisConfig firstByType = registry.getFirstByType(JedisConfig.class, true);
-//            System.out.println(firstByType);
-
         } catch (Exception e) {
 
             LOGGER.error(e.toString(), e);
