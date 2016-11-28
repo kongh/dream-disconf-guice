@@ -1,4 +1,4 @@
-#Disconf guice integration
+#Disconf with guice
 
 We are considering using Disconf for our distribution conf, 
 but it cannot integrate with guice , so ... , 
